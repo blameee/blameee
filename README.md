@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning the python
 - 💞️ I’m looking to collaborate on the Discord application
-- 📫 How to reach me ㄥㄚㄥ✞#9291 or Blame#4139 on discord
+- 📫 How to reach me Lyl.#9291 or Blame#4139 on discord
 
 <!---
 blameee/blameee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
